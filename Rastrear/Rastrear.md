@@ -5,6 +5,8 @@ Esse aplicativo não foi inteiramente feito por mim, o cliente já tinha um proj
 * Inserir o CPF como dado para os pacientes
 * Gerar um relatório em PDF citando todos os dados de pacientes e exames relacionados a um agente de saúde
 * Editar os dados de pacientes e agentes
+* Sinalizar o nome do paciente em vermelho quando os exames apontassem positivo para câncer
+* Inserir a aba "Controle com especialista" nos exames do paciente que tiver câncer
 
 # Links
 
