@@ -1,6 +1,6 @@
 # Visão Geral
 
-Budega Online é o maior projeto que eu desenvolvi até então. A ideia surgiu quando meu pai abriu um pequeno comércio no começo da pandemia, o meu objetivo era prover um meio aos clientes de realizarem suas compras sem a necessidade de frequentarem o estabelecimento físico. Para o desenvolvimento utilizei o Firebase e Provider como gerenciador de estados. Mesmo sendo um app só, várias funcionalidades são restritas à aqueles registrados como administradores. Dessa forma, a aplicação se comporta como se existisse um app para os clientes e outro para o gerente, mas em um só.
+Budega Online é o maior projeto que eu desenvolvi até então. A ideia surgiu quando meu pai abriu um pequeno comércio no começo da pandemia, o meu objetivo era prover um meio aos clientes de realizarem suas compras sem a necessidade de frequentarem o estabelecimento físico. Para o desenvolvimento utilizei o Firebase e Provider como gerenciador de estado. Mesmo sendo um app só, várias funcionalidades são restritas à aqueles registrados como administradores. Dessa forma, a aplicação se comporta como se existisse um app para os clientes e outro para o gerente, mas em um só.
 
 # Telas
 
