@@ -137,14 +137,6 @@ lib/
 - Sem coleta de dados pessoais desnecessários
 
 
-## 📄 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
-
-## 📞 Contato
-
-Para dúvidas ou sugestões, entre em contato através dos canais oficiais do projeto.
-
 ---
 
 **Farol** - Iluminando o caminho para uma gestão financeira mais inteligente! 🚗💡
