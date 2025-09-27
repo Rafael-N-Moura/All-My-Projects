@@ -1,9 +1,3 @@
-<div align="center">
-  <figure>
-    <img src="docs/impulsai_logo.png"
-         alt="UhiHub Banner" width="400" height="240">
-  </figure>
-</div>
 
 ## ImpulsAI: o seu assistente inteligente para otimizar currículos e conquistar vagas.
 ### O Problema
